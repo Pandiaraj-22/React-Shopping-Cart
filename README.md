@@ -11,4 +11,4 @@ Use the command.
 
 To view the live site of the app click the beolw link.
 
-- [Live site](https://shopping-cart-xi-azure.vercel.app/)
+- [Live site](https://react-shopping-cart01.netlify.app/)
